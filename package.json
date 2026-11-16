@@ -1,0 +1,23 @@
+{
+  "name": "nesta-job-fair",
+  "version": "1.0.0",
+  "description": "Project 3: Online Job Fair Registration, developed from Assignment 7.2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "csv-parse": "^6.1.0"
+  }
+}

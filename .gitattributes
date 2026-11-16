@@ -1,0 +1,11 @@
+* text=auto
+*.js text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.puml text eol=lf
+*.yml text eol=lf
+*.pdf binary
+*.mp4 binary
+*.png binary
+*.wav binary
